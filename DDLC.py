@@ -11,4 +11,6 @@ while janela_aberta:
         if event.type == pygame.QUIT:
             janela_aberta = False
 
+print("oi")
+
 pygame.quit()
